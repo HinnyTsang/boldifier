@@ -3,6 +3,9 @@
   "name": "Boldify First Two Letters",
   "version": "1.0",
   "description": "Automatically bolds the first two characters of each word on English pages.",
+  "icons": {
+    "128": "assets/icon.svg"
+  },
   "permissions": ["scripting"],
   "content_scripts": [
     {
